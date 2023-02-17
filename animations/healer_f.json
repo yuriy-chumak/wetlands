@@ -1,0 +1,8 @@
+{
+   "default": {
+      "position": 0,
+      "frames": 3,
+      "duration": 100,
+      "type": "back_forth"
+   }
+}
